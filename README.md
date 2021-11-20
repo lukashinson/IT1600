@@ -19,7 +19,7 @@
 </ul>
 
 <p> I am a Junior at Mizzou looking to graduate in Fall 2022. My plan after that is too get a job in the KC metro area and really pursue my career in coding and lifting </p>
-<br>p>
+<br>
 <p> My 5 year plan consists of opening my own gym and investing into some property to generate some passive income. I want to also invests into my esports org and do that full time in the future </p>
 <br>
 <p> If you are interested in my esports organization please follow @SiKedGG on twitter to stay up to date.</p>
